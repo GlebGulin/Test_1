@@ -1,0 +1,9 @@
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\bin\Debug\netcoreapp2.1\Models.dll
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\bin\Debug\netcoreapp2.1\Models.pdb
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\obj\Debug\netcoreapp2.1\Models.dll
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Models\obj\Debug\netcoreapp2.1\Models.pdb

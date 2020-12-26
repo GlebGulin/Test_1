@@ -1,0 +1,14 @@
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\bin\Debug\netcoreapp2.1\Services.dll
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\bin\Debug\netcoreapp2.1\Services.pdb
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\bin\Debug\netcoreapp2.1\DAL.dll
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\bin\Debug\netcoreapp2.1\Models.dll
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\bin\Debug\netcoreapp2.1\DAL.pdb
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\bin\Debug\netcoreapp2.1\Models.pdb
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\obj\Debug\netcoreapp2.1\Services.dll
+F:\LearnProgramming\Execution\Core\FromSwagger\Test_1\Services\obj\Debug\netcoreapp2.1\Services.pdb
